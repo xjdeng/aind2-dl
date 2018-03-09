@@ -34,3 +34,13 @@
 	```
 	
 3. Enjoy!
+
+##### Note: You'll need to clone CLR into a directory in your your $PYTHONPATH variable:
+
+```
+git clone https://github.com/bckenstler/CLR
+
+cd CLR
+```
+
+Then create an empty file named \__init\__.py in that directory.
